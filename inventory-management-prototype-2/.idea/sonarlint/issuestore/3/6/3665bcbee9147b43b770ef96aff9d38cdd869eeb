@@ -1,0 +1,42 @@
+
+h
+java:S1192!"KDefine a constant instead of duplicating this literal "ITEM PRICE" 4 times.(¨¹ğã8ˆØÀŞê0
+Á
+java:S1192"Define a constant instead of duplicating this literal "---------------------------------------------------------------------------------------------" 7 times.(ôÙÊÔşÿÿÿÿ8ˆØÀŞê0
+J
+java:S1604B"(Make this anonymous inner class a lambda(ïÍòƒüÿÿÿÿ8‰ØÀŞê0
+5
+java:S1700"Rename field "inventory"(®ŒÁ 8ŠØÀŞê0
+£
+java:S1186M"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µê€İşÿÿÿÿ8›ØÀŞê0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ8ŸØÀŞê0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ëÏ¼Ò8ŸØÀŞê0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ8ŸØÀŞê0
+s
+java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(¸º±•üÿÿÿÿ8 ØÀŞê0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¸º±•üÿÿÿÿ8 ØÀŞê0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ8 ØÀŞê0
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(§ŠÑ,8 ØÀŞê0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ8¡ØÀŞê0
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ8¡ØÀŞê0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ëÏ¼Ò8¡ØÀŞê0
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ8¡ØÀŞê0
+s
+java:S34575"Q%n should be used in place of \n to produce the platform-specific line separator.(¸º±•üÿÿÿÿ8¢ØÀŞê0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¸º±•üÿÿÿÿ8¢ØÀŞê0
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ8£ØÀŞê0
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ó¯Á×ùÿÿÿÿ8£ØÀŞê0
+b
+java:S1854B"@Remove this useless assignment to local variable "comparatorId".(ïÍòƒüÿÿÿÿ8£ØÀŞê0
+\
+java:S1854F":Remove this useless assignment to local variable "second".(ˆÆ£öşÿÿÿÿ8¤ØÀŞê0
+[
+java:S1854E"9Remove this useless assignment to local variable "first".(—±‰ºúÿÿÿÿ8¤ØÀŞê0
+8
+java:S3626G"Remove this redundant jump.(ûÁİ…8¤ØÀŞê0
+L
+java:S1481E"*Remove this unused "first" local variable.(—±‰ºúÿÿÿÿ8¥ØÀŞê0
+M
+java:S1481F"+Remove this unused "second" local variable.(ˆÆ£öşÿÿÿÿ8¥ØÀŞê0
+S
+java:S1481B"1Remove this unused "comparatorId" local variable.(ïÍòƒüÿÿÿÿ8¥ØÀŞê0

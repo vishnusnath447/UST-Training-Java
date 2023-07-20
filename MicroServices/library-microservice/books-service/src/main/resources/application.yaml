@@ -1,0 +1,10 @@
+# Configuration file for books-service
+server:
+  port: 8100
+spring:
+  application:
+    name: books-service
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

@@ -1,0 +1,24 @@
+server:
+  port: 8200
+spring:
+  datasource:
+    url: jdbc:h2:mem:book
+    username: sa
+    password: sa
+    driverClassName: org.h2.Driver
+  jpa:
+    spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
+  h2:
+    console.enabled: true
+  application:
+    name: book-consumer
+  rabbitmq:
+    host: ec2-54-205-196-160.compute-1.amazonaws.com
+    virtual-host: /
+    port: 8080
+    password: password
+    username: user
+    template:
+      exchange: simple-exchange-vishnu
+      default-receive-queue: simple-queue-vishnu
+      routing-key: simple-routing-vishnu

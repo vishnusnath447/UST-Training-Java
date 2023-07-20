@@ -1,0 +1,15 @@
+server:
+  port: 8100
+spring:
+  application:
+    name: book-producer
+  rabbitmq:
+    host: ec2-54-205-196-160.compute-1.amazonaws.com
+    virtual-host: /
+    port: 8080
+    password: password
+    username: user
+    template:
+      exchange: simple-exchange-vishnu
+      default-receive-queue: simple-queue-vishnu
+      routing-key: simple-routing-vishnu

@@ -1,0 +1,10 @@
+# Configuration file for authors-service
+server:
+  port: 8000
+spring:
+  application:
+    name: authors-service
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

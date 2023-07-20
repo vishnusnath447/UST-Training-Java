@@ -1,0 +1,19 @@
+
+º
+java:S1192"Define a constant instead of duplicating this literal "---------------------------------------------------------------------------------------------" 3 times.(ôÙÊÔşÿÿÿÿ
+.
+java:S1700"Rename field "inventory"(ãë²™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¸Çèûÿÿÿÿ8ãçõÚê0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸Çèûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Èİáüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Èİáüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÙÊÔşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(§ŠÑ,
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ø«Ø¢øÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¾±¬ö
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ñšË¹ùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ó¯Á×ùÿÿÿÿ

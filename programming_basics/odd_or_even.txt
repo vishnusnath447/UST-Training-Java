@@ -1,0 +1,6 @@
+1: Start
+2: Input a number from user as n
+3: Check if n%2 is equal to 0
+    3.1: If yes print "EVEN"
+    3.2: Else print "ODD"
+4: Stop

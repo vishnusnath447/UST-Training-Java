@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dab106d9-8bc6-4b77-b56a-89538f75157f" name="Changes" comment="solved">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qs7in3GILEzQP0r0S2Ew1l6nLO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "graalvm-17",
+    "last_opened_file_path": "C:/Users/235749/Downloads/test-frontend-main/test-frontend-main/DoctorBookingApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ust.books.domain" />
+      <recent name="com.ust.authors.service" />
+      <recent name="com.ust.authors.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ust\microservices\library-microservice\gateway-service\src\main\resources" />
+      <recent name="D:\ust\microservices\library-microservice\discovery-service\src\main\resources" />
+      <recent name="D:\ust\microservices\library-microservice\books-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.gateway-service">
+    <list>
+      <item itemvalue="Maven.authors-service" />
+      <item itemvalue="Maven.discovery-service" />
+      <item itemvalue="Maven.books-service" />
+      <item itemvalue="Maven.gateway-service" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab106d9-8bc6-4b77-b56a-89538f75157f" name="Changes" comment="" />
+      <created>1686118446465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686118446465</updated>
+      <workItem from="1686118447757" duration="5369000" />
+    </task>
+    <task id="LOCAL-00001" summary="Code challenge.&#10;Library microservice application revision 1">
+      <created>1686123096907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686123096907</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code challenge.&#10;Library microservice application revision 1&#10;&#10;- Done service communication using rest template&#10;&#10;-Eureka server not running">
+      <created>1686136399667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686136399667</updated>
+    </task>
+    <task id="LOCAL-00003" summary="solved">
+      <created>1686137534730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686137534730</updated>
+    </task>
+    <task id="LOCAL-00004" summary="solved">
+      <created>1686138078743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686138078743</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code challenge.&#10;Library microservice application revision 1" />
+    <MESSAGE value="Code challenge.&#10;Library microservice application revision 1&#10;&#10;- Done service communication using rest template&#10;&#10;-Eureka server not running" />
+    <MESSAGE value="solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved" />
+  </component>
+</project>
